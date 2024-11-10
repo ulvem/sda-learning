@@ -1,1 +1,2 @@
-# sda-learning
+Hello from SDA and Arets!
+
